@@ -1,7 +1,13 @@
 # regexp
 Static class for easier handling regular expressions in PHP.
 
-# Usage
+## Installation
+
+```php
+require_once('regexp.php');
+```
+
+## Usage
 Regular expression for matching US postal address:
 
 ```php
